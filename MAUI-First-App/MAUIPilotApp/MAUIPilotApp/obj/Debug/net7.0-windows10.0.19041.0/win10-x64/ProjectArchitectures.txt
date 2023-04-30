@@ -1,0 +1,1 @@
+C:\Users\user\Documents\Epicodus\Capstone\Capstone-Proposal\MAUI-First-App\MAUIPilotApp\MAUIPilotApp\MAUIPilotApp.csproj;x64
