@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 213.5
   },
   "right": {
     "id": "b21c031ed5288474",
@@ -147,5 +147,9 @@
     }
   },
   "active": "eaacafde4ad99170",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Instructor Meeting Notes.md",
+    "README.md",
+    "Capstone Research Timeline.md"
+  ]
 }

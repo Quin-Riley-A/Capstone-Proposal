@@ -11,14 +11,26 @@ public partial class MainPage : ContentPage
 
 	private void OnCounterClicked(object sender, EventArgs e)
 	{
-		count++;
+		count += 10;
+        ResetBtn.Text = $"Count Reset";
 
-		if (count == 1)
+        if (count == 1)
 			CounterBtn.Text = $"Clicked {count} time";
 		else
 			CounterBtn.Text = $"Clicked {count} times";
 
 		SemanticScreenReader.Announce(CounterBtn.Text);
+        SemanticScreenReader.Announce(ResetBtn.Text);
+    }
+
+    private void OnResetClicked(object sender, EventArgs e)
+	{
+		count = 0;
+		CounterBtn.Text = $"Click me";
+		ResetBtn.Text = $"Click Count has Been Reset";
+
+		SemanticScreenReader.Announce(CounterBtn.Text);
+		SemanticScreenReader.Announce(ResetBtn.Text);
 	}
 }
 

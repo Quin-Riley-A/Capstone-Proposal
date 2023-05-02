@@ -14,7 +14,8 @@
 | Capstone Proposal Write-Up| 35 Minutes | 3h:40m |
 | Technology Research .NET MAUI + (Concurrent - Ongoing) | 40 Minutes | 4h:20m |
 | SQL vs SQLExpress Reading (for database cloning and future migration) | 30 Minutes | 4h:50m |
-| .NET MAUI Front End Tutorial App (Labeled MAUIPilotApp) | | |
-| | | |
-| | | |
+| Visual Studio Install and Configure and Initialization | 40 Minutes | 5h30m |
+| .NET MAUI Front End Tutorial App (Labeled MAUIPilotApp) | 1 Hour 40 Minutes | 7h:10m |
+| Initial Schema Diagram | 45 Minutes | 7h:55m |
+| Pull down of previous Bakery Project for MVC and SQL Database work | 40 Minutes | 8h:35m |
 | | | |
