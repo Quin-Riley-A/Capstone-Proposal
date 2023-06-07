@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "23331838768a81f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -149,7 +157,11 @@
   "active": "eaacafde4ad99170",
   "lastOpenFiles": [
     "Instructor Meeting Notes.md",
+    "Capstone Research Timeline.md",
+    "Capstone Proposal.md",
     "README.md",
-    "Capstone Research Timeline.md"
+    "2023-06-07.md",
+    "capstone diagram.bak",
+    "capstone diagram.tmp"
   ]
 }

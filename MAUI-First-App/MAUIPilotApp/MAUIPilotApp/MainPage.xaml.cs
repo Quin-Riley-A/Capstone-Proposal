@@ -12,7 +12,7 @@ public partial class MainPage : ContentPage
 	private void OnCounterClicked(object sender, EventArgs e)
 	{
 		count += 10;
-        ResetBtn.Text = $"Count Reset";
+        ResetBtn.Text = $"Reset Count";
 
         if (count == 1)
 			CounterBtn.Text = $"Clicked {count} time";
